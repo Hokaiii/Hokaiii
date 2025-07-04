@@ -30,7 +30,7 @@
 <h1 align="center">Languages and Tools 🛠</h1>
 <p align="center">
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,lua,py,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,lua,py,html,css,vscode,c,c++,c#" />
   </a>
 </p>
 <p align="center">
